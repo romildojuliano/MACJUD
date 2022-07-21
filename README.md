@@ -1,1 +1,1 @@
-# MACJUD
+# MACJUD - Automação Jurídica
